@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://vincyason.github.io/atom.xml" rel="self"/>
+  <link href="http://vincyason.github.io/"/>
+  <updated>2015-01-21T14:31:05+08:00</updated>
+  <id>http://vincyason.github.io/</id>
+  <author>
+    <name><![CDATA[My Octopress Blog]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://vincyason.github.io/blog/2015/01/21/test/"/>
+    <updated>2015-01-21T14:30:45+08:00</updated>
+    <id>http://vincyason.github.io/blog/2015/01/21/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[you is me]]></title>
+    <link href="http://vincyason.github.io/blog/2015/01/21/you-is-me/"/>
+    <updated>2015-01-21T10:32:06+08:00</updated>
+    <id>http://vincyason.github.io/blog/2015/01/21/you-is-me</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[my first octopress blog]]></title>
+    <link href="http://vincyason.github.io/blog/2015/01/19/my-first-octopress-blog/"/>
+    <updated>2015-01-19T17:35:39+08:00</updated>
+    <id>http://vincyason.github.io/blog/2015/01/19/my-first-octopress-blog</id>
+    <content type="html"><![CDATA[<p>my eyes</p>
+]]></content>
+  </entry>
+  
+</feed>
