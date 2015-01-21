@@ -2,17 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-<<<<<<< HEAD
   <link href="http://vincyason.github.io/atom.xml" rel="self"/>
   <link href="http://vincyason.github.io/"/>
-  <updated>2015-01-21T14:31:05+08:00</updated>
+  <updated>2015-01-21T14:52:49+08:00</updated>
   <id>http://vincyason.github.io/</id>
-=======
-  <link href="http://vincyason.github.io/vincyason/atom.xml" rel="self"/>
-  <link href="http://vincyason.github.io/vincyason/"/>
-  <updated>2015-01-20T14:57:19+08:00</updated>
-  <id>http://vincyason.github.io/vincyason/</id>
->>>>>>> 89d78678ccc40fa5c9e37628349cfdd0af7a5837
   <author>
     <name><![CDATA[My Octopress Blog]]></name>
     
@@ -21,62 +14,38 @@
 
   
   <entry>
-<<<<<<< HEAD
+    <title type="html"><![CDATA[my first]]></title>
+    <link href="http://vincyason.github.io/blog/2015/01/21/my-first/"/>
+    <updated>2015-01-21T14:51:55+08:00</updated>
+    <id>http://vincyason.github.io/blog/2015/01/21/my-first</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[test]]></title>
     <link href="http://vincyason.github.io/blog/2015/01/21/test/"/>
     <updated>2015-01-21T14:30:45+08:00</updated>
     <id>http://vincyason.github.io/blog/2015/01/21/test</id>
     <content type="html"><![CDATA[
-=======
-    <title type="html"><![CDATA[Ok]]></title>
-    <link href="http://vincyason.github.io/vincyason/blog/2015/01/20/ok/"/>
-    <updated>2015-01-20T14:53:05+08:00</updated>
-    <id>http://vincyason.github.io/vincyason/blog/2015/01/20/ok</id>
-    <content type="html"><![CDATA[<p>I am OK!</p>
->>>>>>> 89d78678ccc40fa5c9e37628349cfdd0af7a5837
 ]]></content>
   </entry>
   
   <entry>
-<<<<<<< HEAD
     <title type="html"><![CDATA[you is me]]></title>
     <link href="http://vincyason.github.io/blog/2015/01/21/you-is-me/"/>
     <updated>2015-01-21T10:32:06+08:00</updated>
     <id>http://vincyason.github.io/blog/2015/01/21/you-is-me</id>
     <content type="html"><![CDATA[
-=======
-    <title type="html"><![CDATA[My Eyes]]></title>
-    <link href="http://vincyason.github.io/vincyason/blog/2015/01/20/my-eyes/"/>
-    <updated>2015-01-20T11:29:17+08:00</updated>
-    <id>http://vincyason.github.io/vincyason/blog/2015/01/20/my-eyes</id>
-    <content type="html"><![CDATA[<p>you is my eyes.</p>
->>>>>>> 89d78678ccc40fa5c9e37628349cfdd0af7a5837
 ]]></content>
   </entry>
   
   <entry>
-<<<<<<< HEAD
     <title type="html"><![CDATA[my first octopress blog]]></title>
     <link href="http://vincyason.github.io/blog/2015/01/19/my-first-octopress-blog/"/>
     <updated>2015-01-19T17:35:39+08:00</updated>
     <id>http://vincyason.github.io/blog/2015/01/19/my-first-octopress-blog</id>
     <content type="html"><![CDATA[<p>my eyes</p>
-=======
-    <title type="html"><![CDATA[My Love]]></title>
-    <link href="http://vincyason.github.io/vincyason/blog/2015/01/20/my-love/"/>
-    <updated>2015-01-20T11:04:38+08:00</updated>
-    <id>http://vincyason.github.io/vincyason/blog/2015/01/20/my-love</id>
-    <content type="html"><![CDATA[<p>你是我的love</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[My First Octopress Blog]]></title>
-    <link href="http://vincyason.github.io/vincyason/blog/2015/01/19/my-first-octopress-blog/"/>
-    <updated>2015-01-19T17:35:39+08:00</updated>
-    <id>http://vincyason.github.io/vincyason/blog/2015/01/19/my-first-octopress-blog</id>
-    <content type="html"><![CDATA[
->>>>>>> 89d78678ccc40fa5c9e37628349cfdd0af7a5837
 ]]></content>
   </entry>
   

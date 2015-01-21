@@ -1,8 +1,4 @@
 User-agent: *
 Disallow: 
 
-<<<<<<< HEAD
 Sitemap: http://vincyason.github.io/sitemap.xml 
-=======
-Sitemap: http://vincyason.github.io/vincyason/sitemap.xml 
->>>>>>> 89d78678ccc40fa5c9e37628349cfdd0af7a5837
