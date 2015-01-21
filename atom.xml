@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://vincyason.github.io/atom.xml" rel="self"/>
   <link href="http://vincyason.github.io/"/>
-  <updated>2015-01-21T16:58:43+08:00</updated>
+  <updated>2015-01-21T17:12:07+08:00</updated>
   <id>http://vincyason.github.io/</id>
   <author>
     <name><![CDATA[My Octopress Blog]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[blog]]></title>
+    <title type="html"><![CDATA[Blog]]></title>
     <link href="http://vincyason.github.io/blog/2015/01/21/blog/"/>
     <updated>2015-01-21T14:59:51+08:00</updated>
     <id>http://vincyason.github.io/blog/2015/01/21/blog</id>
@@ -23,7 +23,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[my first]]></title>
+    <title type="html"><![CDATA[My First]]></title>
     <link href="http://vincyason.github.io/blog/2015/01/21/my-first/"/>
     <updated>2015-01-21T14:51:55+08:00</updated>
     <id>http://vincyason.github.io/blog/2015/01/21/my-first</id>
@@ -32,7 +32,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[test]]></title>
+    <title type="html"><![CDATA[Test]]></title>
     <link href="http://vincyason.github.io/blog/2015/01/21/test/"/>
     <updated>2015-01-21T14:30:45+08:00</updated>
     <id>http://vincyason.github.io/blog/2015/01/21/test</id>
@@ -41,7 +41,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[you is me]]></title>
+    <title type="html"><![CDATA[You Is Me]]></title>
     <link href="http://vincyason.github.io/blog/2015/01/21/you-is-me/"/>
     <updated>2015-01-21T10:32:06+08:00</updated>
     <id>http://vincyason.github.io/blog/2015/01/21/you-is-me</id>
@@ -50,7 +50,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[my first octopress blog]]></title>
+    <title type="html"><![CDATA[My First Octopress Blog]]></title>
     <link href="http://vincyason.github.io/blog/2015/01/19/my-first-octopress-blog/"/>
     <updated>2015-01-19T17:35:39+08:00</updated>
     <id>http://vincyason.github.io/blog/2015/01/19/my-first-octopress-blog</id>
